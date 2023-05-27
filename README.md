@@ -12,13 +12,10 @@
 - Определение эмоциональной окраски твитов с помощью BERT
 
 
+А также...
 Ссылки на исходники мощных моделей:
-Transformer-XL https://github.com/kimiyoung/transformer-xl/
-
-BERT https://github.com/google-research/bert
-
-ELMO https://github.com/allenai/bilm-tf
-
-GPT-2 https://github.com/openai/gpt-2
-
-OpenAI Transformer https://github.com/openai/finetune-transformer-lm
+- Transformer-XL https://github.com/kimiyoung/transformer-xl/
+- BERT https://github.com/google-research/bert
+- ELMO https://github.com/allenai/bilm-tf
+- GPT-2 https://github.com/openai/gpt-2
+- OpenAI Transformer https://github.com/openai/finetune-transformer-lm
